@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Indian Cosmetics BD app](https://indiancosmeticsbd.com/)
 
-- 🌱 I’m currently learning **Flutter, Laravel**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Android, Flutter**
 
