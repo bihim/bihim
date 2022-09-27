@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bihim&label=Profile%20views&color=0e75b6&style=flat" alt="bihim" /> </p>
 
-- 🔭 I’m currently working on [Indian Cosmetics BD app](https://indiancosmeticsbd.com/)
-
-- 🌱 I’m currently learning **Flutter**
+- 🔭 I’m currently employed in [RedSpider](https://www.redspider.ae/)
 
 - 💬 Ask me about **Android, Flutter**
 
