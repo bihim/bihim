@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zubaer Alam Bihim</h1>
+<h1 align="center">Hi, I'm Zubaer Alam Bihim</h1>
 <h3 align="center">A passionate mobile app developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bihim&label=Profile%20views&color=0e75b6&style=flat" alt="bihim" /> </p>
