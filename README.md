@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bihim" alt="bihim" /></a> </p>
 
-- I’m currently employed in (part time) [WhatsForDinner](https://whatsfordinner.com/)
+- I’m currently employed in (full time) [JobsNavi](https://jobsnavi.de/)
 
-- 💬 Ask me about **flutter, dart, android**
+- 💬 Ask me about **flutter, dart, cross-platform**
 
 - 📫 How to reach me **zubaerbihim@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17bYq-Gi7tPJVTQ7e0dDrpd910QdpCL5z/view?usp=share_link](https://drive.google.com/file/d/17bYq-Gi7tPJVTQ7e0dDrpd910QdpCL5z/view?usp=share_link)
+- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/16QeYEvD7we6CIqjb2TtXALJQXHxHkt2q/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
