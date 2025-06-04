@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bihim" alt="bihim" /></a> </p>
 
-- I’m currently employed in (full time) [JobsNavi](https://jobsnavi.de/)
+- I’m currently open to work
 
 - 💬 Ask me about **flutter, dart, cross-platform**
 
